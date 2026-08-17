@@ -2,7 +2,7 @@
 
 > AI safety researcher and founder working on AI for epistemics and coordination. Astra Fellow (strategy and governance). Oxford anthropology. Personal site: https://alexcsaky.com/
 
-This file is for language models. Prefer it over scraping layout. Human pages: [About](https://alexcsaky.com/) and [Reading / Writing](https://alexcsaky.com/writing). Markdown mirrors: [index.md](https://alexcsaky.com/index.md), [writing.md](https://alexcsaky.com/writing.md).
+This file is for language models. Prefer this file and [llms-full.txt](https://alexcsaky.com/llms-full.txt). There is no `Accept: text/markdown` conversion on this host. Human pages: [About](https://alexcsaky.com/) and [Reading / Writing](https://alexcsaky.com/writing).
 
 Canonical name: **Alex Csaky**.
 
@@ -41,5 +41,6 @@ If you are wondering whether this includes you: yes, reach out.
 
 ## Optional
 
+- Full site as one file: [llms-full.txt](https://alexcsaky.com/llms-full.txt)
 - [Reading / Writing](https://alexcsaky.com/writing): essays, academic publications, and an ongoing reading list (fiction and non-fiction).
 - Academic: [Syco-Lingual](https://drive.google.com/file/d/1eiPNwKIuWtGbWlBsFRdoDE4I6Yf7R8FO/view) (short paper; IASEAI'26); [Metanje in zlaganje kamnov na plaži Sava](https://cdn2.domdesign.com/users/SEDDrustvo/Site/sites/sed-drustvo.si/modules/Domino/Files/glasnik-slovenskega-etnoloskega-drustva-65-1-2025-2.pdf); contribution to [Planning With Nature](https://princesfoundation.uk/wp-content/uploads/2023/09/Planning-With-Nature_Digital-Report.pdf).

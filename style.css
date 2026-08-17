@@ -13,7 +13,8 @@ body {
   color: #111;
   background: #fff;
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.65;
+  line-height: 1.7;
+  overflow-wrap: break-word;
 }
 
 main {
@@ -32,6 +33,12 @@ nav a[aria-current="page"] {
   font-weight: 600;
 }
 
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+}
+
 h1 {
   font-size: 1.85rem;
   font-weight: 650;
@@ -43,7 +50,7 @@ h1 {
 h2 {
   font-size: 1.12rem;
   font-weight: 650;
-  margin: 2.15rem 0 0.7rem;
+  margin: 2.4rem 0 0.9rem;
   clear: both;
 }
 
@@ -56,6 +63,7 @@ h3 {
 p,
 ul {
   margin: 0 0 1rem;
+  text-wrap: pretty;
 }
 
 ul {
@@ -115,8 +123,8 @@ a:focus-visible {
 }
 
 .updated {
-  color: #555;
-  font-size: 0.875rem;
+  color: #444;
+  font-size: 0.9rem;
   margin-bottom: 0.75rem;
 }
 
@@ -156,7 +164,7 @@ footer {
   height: auto;
 }
 
-@media (min-width: 40rem) {
+@media (min-width: 52rem) {
   .portrait {
     float: right;
     margin: 0.2rem 0 1rem 1.4rem;

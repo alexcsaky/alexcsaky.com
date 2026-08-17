@@ -2,13 +2,5 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: DENY
-  Link: </llms.txt>; rel="describedby"
-
-/
-  Link: </llms.txt>; rel="describedby", </index.md>; rel="alternate"; type="text/markdown"
-
-/writing
-  Link: </llms.txt>; rel="describedby", </writing.md>; rel="alternate"; type="text/markdown"
-
-/writing.html
-  Link: </llms.txt>; rel="describedby", </writing.md>; rel="alternate"; type="text/markdown"
+  Content-Signal: search=yes, ai-train=yes, ai-input=yes
+  Link: </llms.txt>; rel="describedby", </llms-full.txt>; rel="alternate"; type="text/plain"
