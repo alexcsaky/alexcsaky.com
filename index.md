@@ -20,6 +20,12 @@ Previously: contracted with [Forethought](https://www.forethought.org/) as a fou
 - Built a small house in Croatia. Likes building and hands-on work.
 - Civilization.
 
+## Outdoors
+
+Favourite hikes: [Dragon's Back](https://en.wikipedia.org/wiki/Dragon%27s_Back) (Hong Kong), the [Goetheweg](https://nordkette.com/en/hiking-trails/the-goetheweg/) (Innsbruck), the [South Downs Way](https://www.nationaltrail.co.uk/en_GB/trails/south-downs-way/) (Dorset), and [Doi Inthanon](https://en.wikipedia.org/wiki/Doi_Inthanon) (Chiang Mai). The big remaining goal is still the [Pacific Crest Trail](https://www.pcta.org/).
+
+Skiing at [Patscherkofel](https://en.wikipedia.org/wiki/Patscherkofel) (Innsbruck) and [Hakuba Valley](https://www.hakubavalley.com/) (Japan). Sea kayaking in [Istria](https://en.wikipedia.org/wiki/Istria) and [Cornwall](https://en.wikipedia.org/wiki/Cornwall).
+
 ## Now / Recently
 
 Last updated: 17 August 2026
