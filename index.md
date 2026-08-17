@@ -1,7 +1,7 @@
 # Alex Csaky
 
 - Site: [About](https://alexcsaky.com/) · [Reading / Writing](https://alexcsaky.com/writing)
-- Contact: [alexcsaky@gmail.com](mailto:alexcsaky@gmail.com) · [GitHub](https://github.com/alexcsaky) · [LinkedIn](https://www.linkedin.com/in/alexcsaky) · [Substack](https://alexcsaky.substack.com/)
+- Contact: [Email](mailto:alexcsaky@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alexcsaky) · [Substack](https://alexcsaky.substack.com/)
 
 I'm an AI safety researcher and founder working on AI for epistemics and coordination. I'm an [Astra Fellow](https://constellation.org/programs/astra) on the strategy and governance stream, working out where the field most needs accelerating to ensure a better future, and I consult on enterprise AI transformation through [Proferra](https://proferra.org/), with a focus on better organisational coordination.
 
@@ -10,15 +10,15 @@ Previously: contracted with [Forethought](https://www.forethought.org/) as a fou
 ## Things I'm interested in
 
 - **AI for epistemics and coordination.** Previously scoped this field with [Forethought](https://www.forethought.org/).
-  - **Multilingual model evaluation.** [Syco-Lingual](https://github.com/alexcsaky/syco-lingual) (3rd place, [Apart Research AI Manipulation Hackathon](https://apartresearch.com/sprints/ai-manipulation-hackathon-2026-01-09-to-2026-01-11); presented at [IASEAI'26](https://www.iaseai.org/) Paris).
-- **Hosting.** I co-run the [AI Safety Cinema Society](https://luma.com/kp2cff0u) in London; our first screening paired Daniel Roher's *The AI Doc: Or How I Became an Apocaloptimist* with Suzy Shepherd's short *Seat at the Table*. I organise workshops and hackathons with Forethought, BlueDot, and Apart Research. Beyond work, I host a lot of dinners and small events for friends.
-- **Anthropology and what's coming.** I'm writing an essay on AI personhood for Scheme magazine, arguing that personhood is made through relationships rather than crossed as a threshold ([semi-finished draft](https://docs.google.com/document/d/1YOCFeEOWer5-YHvAE5T7p64CQtV5vrJy/edit?usp=sharing)). Selected Substack pieces, including [Marlboro Men and Modern Myths](https://alexcsaky.substack.com/p/marlboro-men-and-modern-myths-chasing).
+  - **Multilingual model evaluation.** [Syco-Lingual](https://drive.google.com/file/d/1eiPNwKIuWtGbWlBsFRdoDE4I6Yf7R8FO/view) (short paper; presented at [IASEAI'26](https://www.iaseai.org/) Paris).
+- **Hosting.** I co-run the [AI Safety Cinema Society](https://luma.com/kp2cff0u) in London; our first screening paired Daniel Roher's *The AI Doc: Or How I Became an Apocaloptimist* with Suzy Shepherd's short *Seat at the Table*. I organise workshops and hackathons. Beyond work, I like hosting dinners and events for friends.
+- **Anthropology and Futurism.** I'm writing an essay on AI personhood for Scheme magazine, arguing that personhood is made through relationships rather than crossed as a threshold ([semi-finished draft](https://docs.google.com/document/d/1YOCFeEOWer5-YHvAE5T7p64CQtV5vrJy/edit?usp=sharing)). More widely I enjoy reading, writing and thinking about the future of humanity, as well as anthropology and what it means to be human. See the [Reading / Writing](https://alexcsaky.com/writing) page for more of this.
 
-## Other things
+## Other things I like
 
 - Lucid dreaming and contemplative practice: an interest in how the mind works, and its hidden limits. Favourite books on it: *[The Tibetan Yogas of Dream and Sleep](https://www.penguinrandomhouse.com/books/224291/the-tibetan-yogas-of-dream-and-sleep-by-tenzin-wangyal-rinpoche/)* by Tenzin Wangyal Rinpoche, *[Exploring the World of Lucid Dreaming](https://www.penguinrandomhouse.com/books/96900/exploring-the-world-of-lucid-dreaming-by-stephen-laberge-phd-and-howard-rheingold/)* by Stephen LaBerge, and *[Dream Yoga](https://www.soundstrue.com/products/dream-yoga)* by Andrew Holecek.
-- Built a small house in Croatia. Likes building and hands-on work.
-- Civilization.
+- Built a small house in Croatia. I like work I can do with my hands. Photos: [house](https://alexcsaky.com/house.jpg), [sketch](https://alexcsaky.com/sketch.jpg).
+- [Civilization 5](https://en.wikipedia.org/wiki/Civilization_V) and [6](https://en.wikipedia.org/wiki/Civilization_VI).
 
 ## Outdoors
 

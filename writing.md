@@ -1,6 +1,6 @@
 # Reading / Writing
 
-An undated index, not a blog. [About](https://alexcsaky.com/) · [Reading / Writing](https://alexcsaky.com/writing)
+[About](https://alexcsaky.com/) · [Reading / Writing](https://alexcsaky.com/writing)
 
 ## Essays and articles
 
@@ -10,12 +10,13 @@ An undated index, not a blog. [About](https://alexcsaky.com/) · [Reading / Writ
 
 ## Academic publications
 
+- [Syco-Lingual](https://drive.google.com/file/d/1eiPNwKIuWtGbWlBsFRdoDE4I6Yf7R8FO/view) (short paper; presented at [IASEAI'26](https://www.iaseai.org/))
 - [Metanje in zlaganje kamnov na plaži Sava](https://cdn2.domdesign.com/users/SEDDrustvo/Site/sites/sed-drustvo.si/modules/Domino/Files/glasnik-slovenskega-etnoloskega-drustva-65-1-2025-2.pdf) (Glasnik Slovenskega etnološkega društva)
 - Research included in [Planning With Nature](https://princesfoundation.uk/wp-content/uploads/2023/09/Planning-With-Nature_Digital-Report.pdf) (Prince's Foundation, 2023)
 
 ## Reading
 
-An ongoing list of books I've enjoyed, not a canon.
+An ongoing list of books I've enjoyed.
 
 ### Fiction
 
@@ -45,7 +46,7 @@ An ongoing list of books I've enjoyed, not a canon.
 - *[The Men Who Stare at Goats](https://en.wikipedia.org/wiki/The_Men_Who_Stare_at_Goats)*, Jon Ronson
 - *[The Psychopath Test](https://en.wikipedia.org/wiki/The_Psychopath_Test)*, Jon Ronson
 
-### Didn't click for me
+### Books I disliked
 
 - *[Orbital](https://en.wikipedia.org/wiki/Orbital_(novel))*, Samantha Harvey
 - *[Capitalist Realism](https://en.wikipedia.org/wiki/Capitalist_Realism)*, Mark Fisher

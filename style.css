@@ -141,6 +141,20 @@ footer {
   height: auto;
 }
 
+.house {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 0.65rem 0 0;
+  padding: 0;
+}
+
+.house img {
+  display: block;
+  width: 12rem;
+  height: auto;
+}
+
 @media (min-width: 40rem) {
   .portrait {
     float: right;
