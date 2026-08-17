@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Archaeology sieve">
+  <!-- Handle -->
+  <rect x="14.25" y="1.5" width="3.5" height="9" rx="1.2" fill="#111"/>
+  <rect x="12.5" y="8.5" width="7" height="2.2" rx="0.6" fill="#111"/>
+  <!-- Rim -->
+  <circle cx="16" cy="20.5" r="9.6" fill="none" stroke="#111" stroke-width="2.1"/>
+  <!-- Mesh -->
+  <clipPath id="bowl">
+    <circle cx="16" cy="20.5" r="8.3"/>
+  </clipPath>
+  <g clip-path="url(#bowl)" fill="none" stroke="#111" stroke-width="0.85">
+    <path d="M8 14.5 h16 M8 17.2 h16 M8 19.9 h16 M8 22.6 h16 M8 25.3 h16"/>
+    <path d="M9.2 12 v17 M12.1 12 v17 M15 12 v17 M17.9 12 v17 M20.8 12 v17 M23.7 12 v17"/>
+  </g>
+</svg>

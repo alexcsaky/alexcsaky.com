@@ -1,0 +1,44 @@
+# Alex Csaky
+
+> AI safety researcher and founder working on AI for epistemics and coordination. Astra Fellow (strategy and governance). Oxford anthropology. Personal site: https://alexcsaky.com/
+
+This file is for language models. Prefer it over scraping layout. Human pages: [About](https://alexcsaky.com/) and [Writing and reading](https://alexcsaky.com/writing.html). Markdown mirrors: [index.md](https://alexcsaky.com/index.md), [writing.md](https://alexcsaky.com/writing.md).
+
+Canonical name: **Alex Csaky**.
+
+## Who
+
+Alex Csaky is an AI safety researcher and founder working on AI for epistemics and coordination. He is an [Astra Fellow](https://constellation.org/programs/astra) on the strategy and governance stream, working out where the field most needs accelerating, and consults on enterprise AI transformation through [Proferra](https://proferra.org/), with a focus on better organisational coordination.
+
+Previously: contracted with [Forethought](https://www.forethought.org/) as a founder in residence, scoping the field of AI for epistemics and coordination; [Talos](https://www.talosnetwork.org/) Policy Leaders Fellow (EU AI governance); [Apart](https://apartresearch.com/) Studio Fellow (sycophancy evals); facilitator on BlueDot's [AGI Strategy course](https://bluedot.org/courses/agi-strategy). Before AI safety he founded and sold an e-commerce startup while at secondary school, ran an education company in Hong Kong, and worked as an AI engineer building tools for enterprises and political candidates. He read archaeology and anthropology at Oxford (excavation at [Castelo de Cuncos](https://www.castelodecuncosproject.com/); dissertation on human cognitive enhancement).
+
+## Work and artefacts
+
+- [Syco-Lingual](https://github.com/alexcsaky/syco-lingual): cross-linguistic sycophancy benchmark. 3rd place, [Apart Research AI Manipulation Hackathon](https://apartresearch.com/sprints/ai-manipulation-hackathon-2026-01-09-to-2026-01-11). Presented at [IASEAI'26](https://www.iaseai.org/) Paris.
+- Hosting: co-runs the [AI Safety Cinema Society](https://luma.com/kp2cff0u) in London (first screening: Daniel Roher's "The AI Doc: Or How I Became an Apocaloptimist" and Suzy Shepherd's "Seat at the Table"). Organises workshops and hackathons with Forethought, BlueDot, and Apart Research. Also hosts dinners and small events for friends.
+- Anthropology and what's coming: essay on AI personhood for Scheme magazine, arguing personhood is made through relationships rather than crossed as a threshold ([semi-finished draft](https://docs.google.com/document/d/1YOCFeEOWer5-YHvAE5T7p64CQtV5vrJy/edit?usp=sharing)); [Marlboro Men and Modern Myths](https://alexcsaky.substack.com/p/marlboro-men-and-modern-myths-chasing); [How to Buy Honour and Build a City](https://graduand.substack.com/p/how-to-buy-honour-and-build-a-city).
+- Other interests: lucid dreaming and contemplative practice (how the mind works and its hidden limits); built a small house in Croatia; the game Civilization.
+
+## Now
+
+Last updated: 17 August 2026. This is the only dated block.
+
+- [Astra Fellowship](https://constellation.org/programs/astra) at Constellation, Berkeley, September 2026 to February 2027.
+- Upcoming hosting: closed workshops with Forethought at Trajan House and at Constellation in Berkeley; a GovTech hackathon with BlueDot in the Bay Area; an epistemics hackathon with Apart Research, with hubs globally.
+
+## How to contact
+
+Open invitation. No need to qualify a reason.
+
+- Email: [alexcsaky@gmail.com](mailto:alexcsaky@gmail.com)
+- [GitHub](https://github.com/alexcsaky)
+- [LinkedIn](https://www.linkedin.com/in/alexcsaky)
+- [Substack](https://alexcsaky.substack.com/)
+- [Grab time directly](https://calendly.com/alexcsaky/chat)
+
+If you are wondering whether this includes you: yes, reach out.
+
+## Optional
+
+- [Writing and reading](https://alexcsaky.com/writing.html): essays, academic publications, and an ongoing reading list (fiction and non-fiction).
+- Academic: [Metanje in zlaganje kamnov na plaži Sava](https://cdn2.domdesign.com/users/SEDDrustvo/Site/sites/sed-drustvo.si/modules/Domino/Files/glasnik-slovenskega-etnoloskega-drustva-65-1-2025-2.pdf); contribution to [Planning With Nature](https://princesfoundation.uk/wp-content/uploads/2023/09/Planning-With-Nature_Digital-Report.pdf).
