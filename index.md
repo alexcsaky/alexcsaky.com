@@ -1,6 +1,6 @@
 # Alex Csaky
 
-- Site: [About](https://alexcsaky.com/) · [Writing](https://alexcsaky.com/writing.html)
+- Site: [About](https://alexcsaky.com/) · [Reading / Writing](https://alexcsaky.com/writing)
 - Contact: [alexcsaky@gmail.com](mailto:alexcsaky@gmail.com) · [GitHub](https://github.com/alexcsaky) · [LinkedIn](https://www.linkedin.com/in/alexcsaky) · [Substack](https://alexcsaky.substack.com/)
 
 I'm an AI safety researcher and founder working on AI for epistemics and coordination. I'm an [Astra Fellow](https://constellation.org/programs/astra) on the strategy and governance stream, working out where the field most needs accelerating to ensure a better future, and I consult on enterprise AI transformation through [Proferra](https://proferra.org/), with a focus on better organisational coordination.

@@ -44,6 +44,7 @@ h2 {
   font-size: 1.12rem;
   font-weight: 650;
   margin: 2.15rem 0 0.7rem;
+  clear: both;
 }
 
 h3 {
@@ -129,14 +130,14 @@ footer {
   font-size: 0.85rem;
 }
 
-/* Ready for a candid photo: uncomment the figure in index.html */
 .portrait {
   margin: 0 0 1.25rem;
+  padding: 0;
 }
 
 .portrait img {
   display: block;
-  max-width: 10rem;
+  width: 10rem;
   height: auto;
 }
 

@@ -7,5 +7,8 @@
 /
   Link: </llms.txt>; rel="describedby", </index.md>; rel="alternate"; type="text/markdown"
 
+/writing
+  Link: </llms.txt>; rel="describedby", </writing.md>; rel="alternate"; type="text/markdown"
+
 /writing.html
   Link: </llms.txt>; rel="describedby", </writing.md>; rel="alternate"; type="text/markdown"

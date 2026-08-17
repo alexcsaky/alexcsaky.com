@@ -1,6 +1,6 @@
-# Writing and reading
+# Reading / Writing
 
-An undated index, not a blog. [About](https://alexcsaky.com/) · [Writing](https://alexcsaky.com/writing.html)
+An undated index, not a blog. [About](https://alexcsaky.com/) · [Reading / Writing](https://alexcsaky.com/writing)
 
 ## Essays and articles
 
