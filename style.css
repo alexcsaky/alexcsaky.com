@@ -144,6 +144,7 @@ footer {
 .house {
   display: flex;
   flex-wrap: wrap;
+  align-items: flex-start;
   gap: 0.6rem;
   margin: 0.65rem 0 0;
   padding: 0;
