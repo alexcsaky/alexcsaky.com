@@ -44,7 +44,8 @@ Last updated: 2 October 2026
 - Astra Fellowship at Constellation, Berkeley, September 2026 to February 2027, exploring multi-agent epistemics and coordination.
 - Mentoring a SPAR project on AI for epistemics (Fall 2026): https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/
 - Published State of the Field: AI for Epistemics and Coordination on LessWrong: https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination
-- Upcoming hosting: closed workshops with Forethought at Trajan House and at Constellation in Berkeley; a GovTech hackathon with BlueDot in the Bay Area; and an epistemics hackathon with Apart Research, with hubs globally.
+- Co-ran the AI for Better Decision-Making and Coordination hackathon with BlueDot (https://bluedot.org/) in San Francisco, 26 to 27 September 2026. Retrospective: Can AI Help Humanity Make Better Decisions? https://blog.bluedot.org/p/can-ai-help-humanity-make-better
+- Upcoming hosting: closed workshops with Forethought at Trajan House and at Constellation in Berkeley, and an epistemics hackathon with Apart Research, with hubs globally.
 
 ## Get in touch
 
@@ -61,6 +62,7 @@ https://alexcsaky.com/writing
 
 ## Essays and articles
 
+- Can AI Help Humanity Make Better Decisions? (co-authored hackathon retrospective, BlueDot blog, October 2026): https://blog.bluedot.org/p/can-ai-help-humanity-make-better
 - State of the Field: AI for Epistemics and Coordination (co-authored report, LessWrong, October 2026): https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination
 - On AI personhood (semi-finished draft, for Scheme magazine): https://docs.google.com/document/d/1YOCFeEOWer5-YHvAE5T7p64CQtV5vrJy/edit?usp=sharing
 - Marlboro Men and Modern Myths: Chasing the Cowboy Ideal (Substack): https://alexcsaky.substack.com/p/marlboro-men-and-modern-myths-chasing
