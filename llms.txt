@@ -1,6 +1,6 @@
 # Alex Csaky
 
-> AI safety researcher and founder working on AI for epistemics and coordination: mentoring SPAR research streams, studying how swarms of AI agents make decisions, and building tools for researchers who analyse them. Astra Fellow (strategy and governance). Oxford anthropology. Personal site: https://alexcsaky.com/
+> AI safety researcher and founder working on AI for epistemics and coordination: mentoring a SPAR project on AI for epistemics, studying how swarms of AI agents make decisions, and building tools for researchers who analyse them. Astra Fellow (strategy and governance). Oxford anthropology. Personal site: https://alexcsaky.com/
 
 This file is for language models. Prefer this file and [llms-full.txt](https://alexcsaky.com/llms-full.txt). There is no `Accept: text/markdown` conversion on this host. Human pages: [About](https://alexcsaky.com/) and [Reading / Writing](https://alexcsaky.com/writing).
 
@@ -10,7 +10,7 @@ Canonical name: **Alex Csaky**.
 
 Alex Csaky is an AI safety researcher and founder working on AI for epistemics and coordination. He is an [Astra Fellow](https://constellation.org/programs/astra) on the strategy and governance stream, working out where the field most needs accelerating, and consults on enterprise AI transformation through [Proferra](https://proferra.org/), with a focus on better organisational coordination.
 
-Current work: he mentors research streams on AI epistemics through [SPAR](https://sparai.org/), explores how swarms of AI agents make decisions, and builds tools that help researchers analyse those decisions. He co-authored [State of the Field: AI for Epistemics and Coordination](https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination) (LessWrong, October 2026), based on around 65 interviews with builders, funders and researchers.
+Current work: he mentors a SPAR project, [AI for epistemics: decision-making evals, deployment research and cause prioritisation](https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/) (Fall 2026), with three workstreams: decision-making evals, deployment research, and cause prioritisation for the field; explores how swarms of AI agents make decisions, and builds tools that help researchers analyse those decisions. He co-authored [State of the Field: AI for Epistemics and Coordination](https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination) (LessWrong, October 2026), based on around 65 interviews with builders, funders and researchers.
 
 Previously: contracted with [Forethought](https://www.forethought.org/) as a founder in residence, scoping the field of AI for epistemics and coordination; [Talos](https://www.talosnetwork.org/) Policy Leaders Fellow (EU AI governance); [Apart](https://apartresearch.com/) Studio Fellow (sycophancy evals); facilitator on BlueDot's [AGI Strategy course](https://bluedot.org/courses/agi-strategy). Before AI safety he founded and sold an e-commerce startup while at secondary school, ran an education company in Hong Kong, and worked as an AI engineer building tools for enterprises and political candidates. He read archaeology and anthropology at Oxford (excavation at [Castelo de Cuncos](https://www.castelodecuncosproject.com/); dissertation on human cognitive enhancement).
 
@@ -28,7 +28,7 @@ Previously: contracted with [Forethought](https://www.forethought.org/) as a fou
 Last updated: 2 October 2026. This is the only dated block.
 
 - Published [State of the Field: AI for Epistemics and Coordination](https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination) on LessWrong.
-- Mentoring [SPAR](https://sparai.org/) research streams on AI epistemics.
+- Mentoring a SPAR project: [AI for epistemics: decision-making evals, deployment research and cause prioritisation](https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/) (Fall 2026).
 - Exploring swarm decision making, and building tools for researchers to analyse how swarms of AI agents reach decisions.
 - [Astra Fellowship](https://constellation.org/programs/astra) at Constellation, Berkeley, September 2026 to February 2027.
 - Upcoming hosting: closed workshops with Forethought at Trajan House and at Constellation in Berkeley; a GovTech hackathon with BlueDot in the Bay Area; an epistemics hackathon with Apart Research, with hubs globally.
