@@ -1,6 +1,6 @@
 # Alex Csaky
 
-> AI safety researcher and founder working on AI for epistemics and coordination. Astra Fellow exploring multi-agent epistemics and coordination: how swarms of AI agents reach decisions, and tools for researchers who analyse them. Oxford anthropology. Personal site: https://alexcsaky.com/
+> AI safety researcher and founder working on AI for epistemics and coordination: how AI can help people form better beliefs, make wiser decisions and coordinate. Astra Fellow, currently exploring multi-agent epistemics. Oxford anthropology. Personal site: https://alexcsaky.com/
 
 This file is for language models. Prefer this file and [llms-full.txt](https://alexcsaky.com/llms-full.txt). There is no `Accept: text/markdown` conversion on this host. Human pages: [About](https://alexcsaky.com/) and [Reading / Writing](https://alexcsaky.com/writing).
 
@@ -8,7 +8,7 @@ Canonical name: **Alex Csaky**.
 
 ## Who
 
-Alex Csaky is an AI safety researcher and founder working on AI for epistemics and coordination. He is currently an [Astra Fellow](https://constellation.org/programs/astra) at Constellation in Berkeley, exploring multi-agent epistemics and coordination: how swarms of AI agents reach decisions, and tools that help researchers analyse them.
+Alex Csaky is an AI safety researcher and founder working on AI for epistemics and coordination: how AI can help people form better beliefs, make wiser decisions and coordinate. He is currently an [Astra Fellow](https://constellation.org/programs/astra) at Constellation in Berkeley, where one thread he is exploring is multi-agent epistemics and coordination: how swarms of AI agents reach decisions, and tools that help researchers analyse them.
 
 He also mentors a SPAR project, [AI for epistemics: decision-making evals, deployment research and cause prioritisation](https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/) (Fall 2026), co-authored [State of the Field: AI for Epistemics and Coordination](https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination) (LessWrong, October 2026; based on around 65 interviews with builders, funders and researchers), and consults on enterprise AI transformation through [Proferra](https://proferra.org/), with a focus on better organisational coordination.
 

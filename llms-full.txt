@@ -10,7 +10,7 @@ Contact: alexcsaky@gmail.com · LinkedIn: https://www.linkedin.com/in/alexcsaky 
 
 https://alexcsaky.com/
 
-I'm an AI safety researcher and founder working on AI for epistemics and coordination. I'm currently an Astra Fellow (https://constellation.org/programs/astra) at Constellation in Berkeley, where I'm exploring multi-agent epistemics and coordination: how swarms of AI agents reach decisions, and tools that help researchers analyse them.
+I'm an AI safety researcher and founder working on AI for epistemics and coordination: how AI can help people form better beliefs, make wiser decisions and coordinate. I'm currently an Astra Fellow (https://constellation.org/programs/astra) at Constellation in Berkeley, where one thread I'm exploring is multi-agent epistemics and coordination: how swarms of AI agents reach decisions, and tools that help researchers analyse them.
 
 I also mentor a SPAR project on AI for epistemics (https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/), have just co-authored State of the Field: AI for Epistemics and Coordination (https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination), and consult on enterprise AI transformation through Proferra (https://proferra.org/).
 
