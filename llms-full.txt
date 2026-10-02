@@ -10,13 +10,17 @@ Contact: alexcsaky@gmail.com · LinkedIn: https://www.linkedin.com/in/alexcsaky 
 
 https://alexcsaky.com/
 
-I'm an AI safety researcher and founder working on AI for epistemics and coordination. I'm an Astra Fellow (https://constellation.org/programs/astra) on the strategy and governance stream, working out where the field most needs accelerating to ensure a better future, and I consult on enterprise AI transformation through Proferra (https://proferra.org/), with a focus on better organisational coordination.
+I'm an AI safety researcher and founder working on AI for epistemics and coordination. I'm currently an Astra Fellow (https://constellation.org/programs/astra) at Constellation in Berkeley, where I'm exploring multi-agent epistemics and coordination: how swarms of AI agents reach decisions, and tools that help researchers analyse them.
+
+I also mentor a SPAR project on AI for epistemics (https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/), have just co-authored State of the Field: AI for Epistemics and Coordination (https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination), and consult on enterprise AI transformation through Proferra (https://proferra.org/).
 
 Previously: contracted with Forethought (https://www.forethought.org/) as a founder in residence, scoping the field of AI for epistemics and coordination; Talos (https://www.talosnetwork.org/) Policy Leaders Fellow (EU AI governance); Apart (https://apartresearch.com/) Studio Fellow (sycophancy evals); facilitator on BlueDot's AGI Strategy course (https://bluedot.org/courses/agi-strategy). Before AI safety I founded and sold an e-commerce startup while at secondary school, ran an education company in Hong Kong, and worked as an AI engineer building tools for enterprises and political candidates. I read archaeology and anthropology at Oxford, where I dug on a Roman Iberian excavation at Castelo de Cuncos (https://www.castelodecuncosproject.com/) and wrote my dissertation on human cognitive enhancement.
 
 ## Things I'm interested in
 
-- AI for epistemics and coordination. Previously scoped this field with Forethought.
+- AI for epistemics and coordination. State of the Field: AI for Epistemics and Coordination (report on LessWrong, October 2026, https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination), building on my scoping work with Forethought.
+  - Multi-agent epistemics and coordination. Through my Astra Fellowship: how swarms of AI agents reach decisions together, and tools that let researchers trace and analyse those decisions.
+  - Mentoring. AI for epistemics: decision-making evals, deployment research and cause prioritisation, a SPAR project (Fall 2026): https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/
   - Multilingual model evaluation. Syco-Lingual (https://drive.google.com/file/d/1eiPNwKIuWtGbWlBsFRdoDE4I6Yf7R8FO/view) (short paper; presented at IASEAI'26 Paris, https://www.iaseai.org/). Code: https://github.com/alexcsaky/syco-lingual
 - Hosting. I co-run the AI Safety Cinema Society (https://luma.com/kp2cff0u) in London; our first screening paired Daniel Roher's The AI Doc: Or How I Became an Apocaloptimist with Suzy Shepherd's short Seat at the Table. I organise workshops and hackathons. Beyond work, I like hosting dinners and events for friends.
 - Anthropology and Futurism. I'm writing an essay on AI personhood for Scheme magazine, arguing that personhood is made through relationships rather than crossed as a threshold (semi-finished draft: https://docs.google.com/document/d/1YOCFeEOWer5-YHvAE5T7p64CQtV5vrJy/edit?usp=sharing). More widely I enjoy reading, writing and thinking about the future of humanity, as well as anthropology and what it means to be human. See Reading / Writing for more of this.
@@ -35,9 +39,11 @@ Skiing at Patscherkofel (Innsbruck) and Hakuba Valley (Japan). Sea kayaking in I
 
 ## Now / Recently
 
-Last updated: 17 August 2026
+Last updated: 2 October 2026
 
-- Astra Fellowship at Constellation, Berkeley, September 2026 to February 2027.
+- Astra Fellowship at Constellation, Berkeley, September 2026 to February 2027, exploring multi-agent epistemics and coordination.
+- Mentoring a SPAR project on AI for epistemics (Fall 2026): https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/
+- Published State of the Field: AI for Epistemics and Coordination on LessWrong: https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination
 - Upcoming hosting: closed workshops with Forethought at Trajan House and at Constellation in Berkeley; a GovTech hackathon with BlueDot in the Bay Area; and an epistemics hackathon with Apart Research, with hubs globally.
 
 ## Get in touch
@@ -55,6 +61,7 @@ https://alexcsaky.com/writing
 
 ## Essays and articles
 
+- State of the Field: AI for Epistemics and Coordination (co-authored report, LessWrong, October 2026): https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination
 - On AI personhood (semi-finished draft, for Scheme magazine): https://docs.google.com/document/d/1YOCFeEOWer5-YHvAE5T7p64CQtV5vrJy/edit?usp=sharing
 - Marlboro Men and Modern Myths: Chasing the Cowboy Ideal (Substack): https://alexcsaky.substack.com/p/marlboro-men-and-modern-myths-chasing
 - How to Buy Honour and Build a City (Substack): https://graduand.substack.com/p/how-to-buy-honour-and-build-a-city
