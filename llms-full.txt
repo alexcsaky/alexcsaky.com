@@ -45,8 +45,8 @@ Last updated: 2 October 2026
 - Mentoring a SPAR project on AI for epistemics (Fall 2026): https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/
 - Published State of the Field: AI for Epistemics and Coordination on LessWrong: https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination
 - Co-ran the AI for Better Decision-Making and Coordination hackathon with BlueDot (https://bluedot.org/) in San Francisco, 26 to 27 September 2026. Retrospective: Can AI Help Humanity Make Better Decisions? https://blog.bluedot.org/p/can-ai-help-humanity-make-better
-- Ran a closed workshop with Forethought at Trajan House, Oxford.
-- Upcoming hosting: a closed workshop with Forethought at Constellation in Berkeley, and the AI x Epistemics Research Sprint with Apart Research, 13 to 15 November 2026 (online, with local hubs): https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15
+- Ran a closed workshop at Trajan House, Oxford.
+- Upcoming hosting: a closed workshop at Constellation in Berkeley, and the AI x Epistemics Research Sprint with Apart Research: https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15
 
 ## Get in touch
 
