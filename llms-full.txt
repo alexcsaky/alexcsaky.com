@@ -10,7 +10,7 @@ Contact: alexcsaky@gmail.com · LinkedIn: https://www.linkedin.com/in/alexcsaky 
 
 https://alexcsaky.com/
 
-I'm an AI safety researcher and founder working on AI for epistemics and coordination: how AI can help people form better beliefs, make wiser decisions and coordinate. I'm currently an Astra Fellow (https://constellation.org/programs/astra) at Constellation in Berkeley, where one thread I'm exploring is multi-agent epistemics and coordination: how swarms of AI agents reach decisions, and tools that help researchers analyse them.
+I'm an AI safety researcher and founder working on AI for epistemics and coordination: how AI can help people form better beliefs, make wiser decisions and coordinate. I'm currently an Astra Fellow (https://constellation.org/programs/astra) at Constellation in Berkeley, focusing on AI and decision-making: how AI can help people and institutions make better decisions, and how AI systems make their own.
 
 I also mentor a SPAR project on AI for epistemics (https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/), have just co-authored State of the Field: AI for Epistemics and Coordination (https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination), and consult on enterprise AI transformation through Proferra (https://proferra.org/).
 
@@ -19,7 +19,7 @@ Previously: contracted with Forethought (https://www.forethought.org/) as a foun
 ## Things I'm interested in
 
 - AI for epistemics and coordination. State of the Field: AI for Epistemics and Coordination (report on LessWrong, October 2026, https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination), building on my scoping work with Forethought.
-  - Multi-agent epistemics and coordination. Through my Astra Fellowship: how swarms of AI agents reach decisions together, and tools that let researchers trace and analyse those decisions.
+  - AI and decision-making. Through my Astra Fellowship: how AI can help people and institutions make better decisions, and how AI systems, including groups of AI agents, make their own.
   - Mentoring. AI for epistemics: decision-making evals, deployment research and cause prioritisation, a SPAR project (Fall 2026): https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/
   - Multilingual model evaluation. Syco-Lingual (https://drive.google.com/file/d/1eiPNwKIuWtGbWlBsFRdoDE4I6Yf7R8FO/view) (short paper; presented at IASEAI'26 Paris, https://www.iaseai.org/). Code: https://github.com/alexcsaky/syco-lingual
 - Hosting. I co-run the AI Safety Cinema Society (https://luma.com/kp2cff0u) in London; our first screening paired Daniel Roher's The AI Doc: Or How I Became an Apocaloptimist with Suzy Shepherd's short Seat at the Table. I organise workshops and hackathons. Beyond work, I like hosting dinners and events for friends.
@@ -41,7 +41,7 @@ Skiing at Patscherkofel (Innsbruck) and Hakuba Valley (Japan). Sea kayaking in I
 
 Last updated: 2 October 2026
 
-- Astra Fellowship at Constellation, Berkeley, September 2026 to February 2027, exploring multi-agent epistemics and coordination.
+- Astra Fellowship at Constellation, Berkeley, September 2026 to February 2027, focusing on AI and decision-making.
 - Mentoring a SPAR project on AI for epistemics (Fall 2026): https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/
 - Published State of the Field: AI for Epistemics and Coordination on LessWrong: https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination
 - Co-ran the AI for Better Decision-Making and Coordination hackathon with BlueDot (https://bluedot.org/) in San Francisco, 26 to 27 September 2026. Retrospective: Can AI Help Humanity Make Better Decisions? https://blog.bluedot.org/p/can-ai-help-humanity-make-better
