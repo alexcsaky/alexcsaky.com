@@ -8,7 +8,7 @@ Canonical name: **Alex Csaky**.
 
 ## Who
 
-Alex Csaky is an AI safety researcher and founder working on AI for epistemics and coordination: how AI can help people form better beliefs, make wiser decisions and coordinate. He is currently an [Astra Fellow](https://constellation.org/programs/astra) at Constellation in Berkeley, where his main focus is AI and decision-making: using AI to help people make better decisions, and understanding how AI systems make their own.
+Alex Csaky is an AI safety researcher and founder working on AI for epistemics and coordination: how AI can help people form better beliefs, make wiser decisions and coordinate. He is currently an [Astra Fellow](https://constellation.org/programs/astra) at Constellation in Berkeley, focusing on AI and decision-making: how AI can help people and institutions make better decisions, and how AI systems make their own.
 
 He also mentors a SPAR project, [AI for epistemics: decision-making evals, deployment research and cause prioritisation](https://sparai.org/projects/f26/rec9Oet0sZQOusVbi/) (Fall 2026), co-authored [State of the Field: AI for Epistemics and Coordination](https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination) (LessWrong, October 2026; based on around 65 interviews with builders, funders and researchers), and consults on enterprise AI transformation through [Proferra](https://proferra.org/), with a focus on better organisational coordination.
 
